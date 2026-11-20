@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+  <!-- Ilustración de la portada: símbolos de las ciencias naturales y la matemática -->
+
+  <!-- Planeta con órbita (astronomía) -->
+  <g opacity=".9">
+    <circle cx="380" cy="110" r="46"/>
+    <ellipse cx="380" cy="110" rx="92" ry="22" transform="rotate(-18 380 110)"/>
+    <path d="M352 86c10-6 24-8 36-4" opacity=".6"/>
+    <circle cx="470" cy="62" r="4" fill="#ffffff"/>
+    <circle cx="292" cy="40" r="2.5" fill="#ffffff"/>
+    <circle cx="488" cy="170" r="2" fill="#ffffff"/>
+  </g>
+
+  <!-- Molécula: anillo hexagonal (química) -->
+  <g opacity=".85">
+    <path d="M150 70 l40 23 v46 l-40 23 l-40 -23 v-46z"/>
+    <path d="M150 84 l28 16 M178 132 l-28 16 M122 132 v-32" opacity=".55"/>
+    <path d="M190 93 l34 -20 M150 162 v38 M110 93 l-34 -20"/>
+    <circle cx="224" cy="73" r="9" fill="#ffffff" fill-opacity=".15"/>
+    <circle cx="150" cy="208" r="9" fill="#ffffff" fill-opacity=".15"/>
+    <circle cx="76" cy="73" r="9" fill="#ffffff" fill-opacity=".15"/>
+  </g>
+
+  <!-- Hoja (biología) -->
+  <g opacity=".85">
+    <path d="M300 300c0-70 55-110 130-112 4 76-40 128-110 128"/>
+    <path d="M300 330c20-40 60-80 110-128"/>
+    <path d="M345 268l-4-30M372 240l-2-28M330 290l-28-4M357 262l-30-2" opacity=".6"/>
+  </g>
+
+  <!-- Estratos de roca (ciencias de la Tierra) -->
+  <g opacity=".8">
+    <path d="M40 330c40-14 80-14 120 0s80 14 120 0"/>
+    <path d="M40 356c40-14 80-14 120 0s80 14 120 0"/>
+    <path d="M40 382c40-14 80-14 120 0s80 14 120 0"/>
+    <path d="M40 408c40-14 80-14 120 0s80 14 120 0" opacity=".6"/>
+    <circle cx="96" cy="368" r="3" fill="#ffffff"/>
+    <circle cx="210" cy="342" r="2.5" fill="#ffffff"/>
+    <circle cx="170" cy="394" r="2" fill="#ffffff"/>
+  </g>
+
+  <!-- Matemática -->
+  <g opacity=".75" stroke-width="1.6">
+    <path d="M40 250c30-60 60-60 90 0s60 60 90 0" />
+    <path d="M30 250h200M40 280v-70" opacity=".5"/>
+  </g>
+  <g fill="#ffffff" stroke="none" opacity=".8" font-family="Georgia, 'Times New Roman', serif" font-style="italic">
+    <text x="250" y="200" font-size="34">π</text>
+    <text x="440" y="300" font-size="22">∑</text>
+    <text x="232" y="420" font-size="20">ƒ(x)</text>
+    <text x="40" y="170" font-size="18">a²+b²</text>
+  </g>
+</svg>
