@@ -172,6 +172,9 @@ a.tarjeta:hover { transform: translateY(-2px); box-shadow: 0 10px 28px rgba(16, 
 .pie .logos { display: flex; align-items: center; gap: 16px; margin-top: 16px; }
 .pie .logos { flex-wrap: wrap; }
 .pie .logos img { height: 70px; width: auto; border-radius: 6px; box-shadow: 0 0 0 1px rgba(255,255,255,.25); }
+.pie .logos .separador { width: 1px; align-self: stretch; background: rgba(255, 255, 255, .3); margin: 8px 4px; }
+.pie .logos .logo-exactas img { height: 18px; border-radius: 0; box-shadow: none; opacity: .9; }
+.pie .logos .logo-exactas:hover img { opacity: 1; }
 .pie .legal { border-top: 1px solid rgba(255, 255, 255, .15); margin-top: 32px; padding-top: 18px; font-size: .85rem; opacity: .75; }
 
 /* ---------- Celular ---------- */
