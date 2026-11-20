@@ -89,7 +89,7 @@ p { margin: 0 0 1em; }
   position: absolute; right: -10px; top: 50%; transform: translateY(-50%);
   width: 440px; height: auto; opacity: .55; pointer-events: none;
 }
-.portada .sigla { font-size: .95rem; letter-spacing: .18em; text-transform: uppercase; color: #ffc89c; margin-bottom: 12px; }
+.portada .sigla { font-size: 1rem; font-weight: 600; letter-spacing: .04em; color: #ffc89c; margin-bottom: 12px; }
 .portada h1 { color: #fff; font-size: clamp(2rem, 5vw, 3.2rem); max-width: 720px; }
 .portada p { font-size: 1.2rem; max-width: 620px; opacity: .92; }
 .portada .acciones { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
