@@ -319,3 +319,9 @@ a.tarjeta:hover h3 { color: var(--color-calido-oscuro); }
 .publicaciones li:last-child { border-bottom: 0; }
 .boton.boton-azul { background: var(--color-primario); color: #fff; }
 .boton.boton-azul:hover { background: var(--color-primario-oscuro); color: #fff; }
+
+/* ---------- Pie: Instagram ---------- */
+.pie .red-social { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; }
+.pie .red-social svg { width: 22px; height: 22px; color: #fff; flex: none; }
+.pie .red-social span { text-decoration: underline; text-underline-offset: 3px; }
+.pie .red-social:hover svg { color: #ffc89c; }
