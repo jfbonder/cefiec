@@ -342,3 +342,4 @@ a.tarjeta:hover h3 { color: var(--color-calido-oscuro); }
 .secretario .avatar { width: 64px; height: 64px; box-shadow: 0 0 0 3px #fff, 0 0 0 5px var(--color-calido); }
 .secretario .cargo { display: block; margin-bottom: 0; font-size: .78rem; }
 .secretario strong { color: var(--color-primario); font-size: 1.1rem; }
+.contacto-linea { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 18px; }
