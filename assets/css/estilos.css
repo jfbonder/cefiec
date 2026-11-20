@@ -108,12 +108,13 @@ p { margin: 0 0 1em; }
 .cifra span { color: var(--color-texto-suave); font-size: .98rem; }
 
 /* ---------- Director ---------- */
-.director { display: flex; align-items: center; gap: 32px; margin-bottom: 28px; background: #fff; border: 1px solid var(--color-borde); border-radius: var(--radio); padding: 28px; box-shadow: var(--sombra); }
-.director img { width: 180px; height: 180px; border-radius: 50%; object-fit: cover; flex: none; box-shadow: 0 0 0 4px #fff, 0 0 0 6px var(--color-calido); }
-.director h3 { font-size: 1.6rem; margin-bottom: .3em; }
+.director { display: flex; align-items: center; gap: 28px; margin-bottom: 0; background: #fff; border: 1px solid var(--color-borde); border-radius: var(--radio); padding: 28px; box-shadow: var(--sombra); }
+.director img { width: 140px; height: 140px; border-radius: 50%; object-fit: cover; flex: none; box-shadow: 0 0 0 4px #fff, 0 0 0 6px var(--color-calido); }
+.director h3 { font-size: 1.4rem; margin-bottom: .3em; }
 .director p { color: var(--color-texto-suave); margin: 0; max-width: 560px; }
 .cargo { display: inline-block; font-size: .85rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--color-calido-oscuro); margin-bottom: 4px; }
-.director-mini { display: flex; align-items: center; gap: 16px; margin-top: 8px; }
+.autoridades-mini { display: flex; flex-wrap: wrap; gap: 20px 36px; margin-top: 8px; }
+.director-mini { display: flex; align-items: center; gap: 16px; }
 .director-mini img { width: 72px; height: 72px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 0 3px #fff, 0 0 0 5px var(--color-calido); }
 .director-mini span { display: block; font-size: .82rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--color-calido-oscuro); }
 .director-mini strong { color: var(--color-primario); font-size: 1.1rem; }
