@@ -1,0 +1,73 @@
+{
+  "descripcion": "Tesis doctorales defendidas en el marco del Instituto CeFIEC, recuperadas del sitio anterior (Joomla, último contenido 2021-2024). Se retiraron del sitio publicado; se guardan aquí por si se vuelven a incluir.",
+  "defendidas": [
+    {
+      "titulo": "Obstáculos para el aprendizaje del modelo de evolución por selección natural",
+      "anio": "2011",
+      "tesista": "Leonardo González Galli",
+      "direccion": "Directora: Dra. Elsa Noemí Meinardi",
+      "consejo": "Consejero de estudios: Dr. Juan Carlos Reboreda",
+      "enlace": "https://web.archive.org/web/2024/http://cefiec.fcen.uba.ar/tesis/Tesis%20Gonzalez%20Galli.pdf"
+    },
+    {
+      "titulo": "Caracterización de las creencias sobre sexualidad de los profesores y su incidencia en las prácticas sobre educación sexual en la escuela media",
+      "anio": "2015",
+      "tesista": "María Victoria Plaza",
+      "direccion": "Directores: Dra. Elsa Noemí Meinardi y Dr. Leonardo Martín González Galli",
+      "consejo": "Consejero de estudios: Dr. Enrique Rodríguez",
+      "enlace": "https://web.archive.org/web/2024/http://cefiec.fcen.uba.ar/tesis/Tesis%20Plaza.pdf"
+    },
+    {
+      "titulo": "Dispositivos de formación docente en educación ambiental, una investigación acción en el Bajo Delta del Paraná",
+      "anio": "2017",
+      "tesista": "Luciano Iribarren",
+      "direccion": "Directores: Dra. Leonor Bonan y Dr. Fabio Kalesnik",
+      "consejo": "Consejero de estudios: Dr. Rubén Quintana",
+      "enlace": "https://web.archive.org/web/2024/http://cefiec.fcen.uba.ar/tesis/Tesis%20Iribarren.pdf"
+    },
+    {
+      "titulo": "Los cuerpos en la formación docente en Educación Sexual Integral: dispositivos para docentes y equipos de orientación escolar de escuelas medias",
+      "anio": "2018",
+      "tesista": "Micaela Kohen",
+      "direccion": "Directora: Dra. Elsa Noemí Meinardi",
+      "consejo": "Consejera de estudios: Dra. Laura Levin",
+      "enlace": "https://web.archive.org/web/2024/http://cefiec.fcen.uba.ar/tesis/Tesis%20Kohen.pdf"
+    },
+    {
+      "titulo": "Estudio didáctico epistemológico sobre la enseñanza y el aprendizaje de temas de biología celular y química biológica",
+      "anio": "2019",
+      "tesista": "Natalia Ospina Quintero",
+      "direccion": "Directoras: Dra. Lydia Galagovsky y Dra. Graciela Merino",
+      "consejo": "Consejero de estudios: Dr. Luis Baraldo",
+      "enlace": "https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6715_OspinaQuintero"
+    },
+    {
+      "titulo": "La regulación metacognitiva de los obstáculos epistemológicos en la construcción de modelos de biología evolutiva en la escuela media",
+      "anio": "2021",
+      "tesista": "Gastón Pérez",
+      "direccion": "Director: Dr. Leonardo González Galli · Directora asistente: Alma Adrianna Gómez Galindo",
+      "consejo": "Consejero de estudios: Javier López de Casenave",
+      "enlace": "https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6792_Perez"
+    },
+    {
+      "titulo": "La enseñanza de las ciencias de la Tierra: perspectivas y aportes para la formación docente",
+      "anio": "2021",
+      "tesista": "Diego Arias Regalía",
+      "direccion": "Directores: Dra. Leonor Bonan y Dr. Pedro Wagner Gonçalves",
+      "consejo": "Consejera de estudios: Dra. Lydia Galagovsky",
+      "enlace": "https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6825_AriasRegalia"
+    },
+    {
+      "titulo": "Estudio didáctico epistemológico sobre la enseñanza de aspectos redox de la respiración",
+      "anio": "2021",
+      "tesista": "Martín Pérgola",
+      "direccion": "Directora: Dra. Lydia Galagovsky",
+      "consejo": "Consejero de estudios: Dr. Marcelo Wolansky",
+      "enlace": null
+    }
+  ],
+  "en_desarrollo": [
+    "Mg. Yonnhatan García Cartagena"
+  ],
+  "nota": "Las tesis de 2011 a 2018 estaban alojadas en el sitio anterior; los enlaces apuntan a la copia de Internet Archive. La tesis de Martín Pérgola (2021) figuraba como aprobada y en espera de publicación."
+}
