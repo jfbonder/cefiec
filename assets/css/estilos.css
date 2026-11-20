@@ -329,7 +329,7 @@ a.tarjeta:hover h3 { color: var(--color-calido-oscuro); }
 .datos .red-social svg { width: 22px; height: 22px; color: var(--color-calido-boton); flex: none; }
 
 /* ---------- Contacto: tarjetas compactas ---------- */
-.tarjetas-contacto { max-width: 860px; margin: 0 auto; align-items: start; gap: 20px; }
+.tarjetas-contacto { max-width: 420px; margin: 0 auto; }
 .tarjetas-contacto .tarjeta { padding: 20px 22px; }
 .tarjeta-titulo { display: flex; align-items: center; gap: 12px; margin-bottom: 6px; }
 .tarjeta-titulo .icono { margin: 0; width: 38px; height: 38px; }
@@ -338,3 +338,7 @@ a.tarjeta:hover h3 { color: var(--color-calido-oscuro); }
 .tarjetas-contacto .datos { margin: 0; }
 .tarjetas-contacto .datos dt { margin-top: 10px; font-size: .92rem; }
 .tarjetas-contacto .datos dd { font-size: .98rem; }
+.secretario { display: flex; align-items: center; gap: 14px; margin: 14px 0 4px; padding-bottom: 14px; border-bottom: 1px solid var(--color-borde); }
+.secretario .avatar { width: 64px; height: 64px; box-shadow: 0 0 0 3px #fff, 0 0 0 5px var(--color-calido); }
+.secretario .cargo { display: block; margin-bottom: 0; font-size: .78rem; }
+.secretario strong { color: var(--color-primario); font-size: 1.1rem; }
