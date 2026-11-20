@@ -295,3 +295,25 @@ a.tarjeta:hover h3 { color: var(--color-calido-oscuro); }
 .foto-historica img { width: 100%; height: auto; display: block; border-radius: var(--radio); box-shadow: var(--sombra); border-bottom: 4px solid var(--color-calido); }
 .foto-historica figcaption { font-size: .86rem; color: var(--color-texto-suave); margin-top: 10px; line-height: 1.45; }
 @media (max-width: 56.25em) { .historia { grid-template-columns: 1fr; gap: 28px; } .foto-historica { max-width: 360px; } }
+
+/* ---------- Personas con foto o iniciales ---------- */
+.avatar { border-radius: 50%; object-fit: cover; flex: none; display: inline-block; }
+.avatar.iniciales {
+  display: inline-grid; place-items: center; background: var(--color-acento-claro);
+  color: var(--color-primario); font-weight: 700; letter-spacing: .02em;
+}
+.director .avatar { width: 120px; height: 120px; box-shadow: 0 0 0 4px #fff, 0 0 0 6px var(--color-calido); }
+.director-mini .avatar { width: 72px; height: 72px; box-shadow: 0 0 0 3px #fff, 0 0 0 5px var(--color-calido); }
+.grilla.tres { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+.grilla.tres .director { flex-direction: column; text-align: center; }
+.personas .persona, .lista-personas .persona { display: flex; align-items: center; gap: 14px; }
+.personas .persona .avatar, .lista-personas .persona .avatar { width: 44px; height: 44px; }
+.lista-personas { display: grid; gap: 12px; }
+.subtitulo { font-size: 1rem; color: var(--color-texto-suave); font-weight: 600; margin: 0 0 12px; }
+.tarjeta .dato { font-size: .92rem; color: var(--color-primario); font-weight: 600; margin-top: -4px; }
+.publicaciones { list-style: none; padding: 0; }
+.publicaciones li { padding: 14px 0 14px 18px; border-bottom: 1px solid var(--color-borde); position: relative; font-size: .98rem; overflow-wrap: anywhere; }
+.publicaciones li::before { content: ""; position: absolute; left: 0; top: 24px; width: 7px; height: 7px; border-radius: 50%; background: var(--color-calido); }
+.publicaciones li:last-child { border-bottom: 0; }
+.boton.boton-azul { background: var(--color-primario); color: #fff; }
+.boton.boton-azul:hover { background: var(--color-primario-oscuro); color: #fff; }
