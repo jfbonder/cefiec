@@ -343,3 +343,7 @@ a.tarjeta:hover h3 { color: var(--color-calido-oscuro); }
 .secretario .cargo { display: block; margin-bottom: 0; font-size: .78rem; }
 .secretario strong { color: var(--color-primario); font-size: 1.1rem; }
 .contacto-linea { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 18px; }
+
+/* ---------- Texto introductorio de sección ---------- */
+.intro { max-width: 820px; margin-bottom: 48px; }
+.intro p { font-size: 1.15rem; line-height: 1.7; color: var(--color-texto); }
